@@ -26,14 +26,12 @@ export default function IntroScreen(props) {
 IntroScreen.navigationOptions = {
   title: 'Home',
   headerStyle: {
-    backgroundColor: '#A13BFF',
+    backgroundColor: '#89ff00',
   },
   headerTintColor: '#fff',
   headerTitleStyle: {
     fontWeight: 'bold',
-    textAlign: 'center',
-    justifyContent: 'center',
-    alignItems: 'center'
+    color: 'black'
   },
 };
 
